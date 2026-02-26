@@ -8,12 +8,12 @@ A privacy-first, client-side PDF to Word document converter with live text editi
 
 ## 🎯 Features
 
-- ** 100% Private**: All conversion happens in your browser. Files never leave your device.
-- ** Live Editing**: Edit extracted text directly in the browser before downloading.
-- ** Fast**: No server roundtrips. Instant PDF text extraction.
-- ** Neo-Brutalist Design**: Bold, high-contrast interface with striking visual elements.
-- ** Responsive**: Works on desktop and mobile browsers.
-- ** Free Forever**: No accounts, no subscriptions, no hidden costs.
+- **🔒 100% Private**: All conversion happens in your browser. Files never leave your device.
+- **✏️ Live Editing**: Edit extracted text directly in the browser before downloading.
+- **⚡ Fast**: No server roundtrips. Instant PDF text extraction.
+- **🎨 Neo-Brutalist Design**: Bold, high-contrast interface with striking visual elements.
+- **📱 Responsive**: Works on desktop and mobile browsers.
+- **🆓 Free Forever**: No accounts, no subscriptions, no hidden costs.
 
 ## 🚀 Live Demo
 
