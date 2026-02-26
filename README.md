@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+**Your Name** - [@nafirs_](https://twitter.com/nafirs_) - nafirs@pm.me
 
 Project Link: [https://github.com/haynafi/pdf-to-word-converter](https://github.com/haynafi/pdf-to-word-converter)
 
