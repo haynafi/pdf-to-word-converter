@@ -17,7 +17,7 @@ A privacy-first, client-side PDF to Word document converter with live text editi
 
 ## 🚀 Live Demo
 
-Try it now: [PDF to Word Converter](#) *(replace with your deployed URL)*
+Try it now: [PDF to Word Converter](#) *(NOT YET DEPLOYED HAHA)*
 
 ## 📸 Screenshots
 
