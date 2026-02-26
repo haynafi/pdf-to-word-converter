@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [@nafirs_](https://twitter.com/nafirs_) - nafirs@pm.me
+**Me** - [@nafirs_](https://twitter.com/nafirs_) - nafirs@pm.me
 
 Project Link: [https://github.com/haynafi/pdf-to-word-converter](https://github.com/haynafi/pdf-to-word-converter)
 
@@ -195,5 +195,5 @@ Project Link: [https://github.com/haynafi/pdf-to-word-converter](https://github.
 
 <div align="center">
   <strong>PRIVATE. LOCAL. BRUTAL.</strong><br>
-  Made with 💪 by <a href="https://github.com/haynafi">Your Name</a>
+  Made with 💪 by <a href="https://github.com/haynafi">Me</a>
 </div>
