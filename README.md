@@ -45,7 +45,7 @@ Try it now: [PDF to Word Converter](#) *(replace with your deployed URL)*
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pdf-to-word-converter.git
+git clone https://github.com/haynafi/pdf-to-word-converter.git
 cd pdf-to-word-converter
 ```
 
@@ -189,11 +189,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-Project Link: [https://github.com/yourusername/pdf-to-word-converter](https://github.com/yourusername/pdf-to-word-converter)
+Project Link: [https://github.com/haynafi/pdf-to-word-converter](https://github.com/haynafi/pdf-to-word-converter)
 
 ---
 
 <div align="center">
   <strong>PRIVATE. LOCAL. BRUTAL.</strong><br>
-  Made with 💪 by <a href="https://github.com/yourusername">Your Name</a>
+  Made with 💪 by <a href="https://github.com/haynafi">Your Name</a>
 </div>
